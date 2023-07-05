@@ -16,7 +16,7 @@ VERSION: "1.2.1" # Internal use only
 # This is the max allowed enchanting level with the command in-game
 # Minecraft: Bedrock Edition has a maximum of 32767 enchantment levels
 # This will be used as a hard limit for any enchantment not listed in the custom levels
-Max-Level: 5000
+Max-Level: 100
 
 # Here you can list enchantments that should have specific max levels
 # Set to false if you want all enchantments to use the same max level
